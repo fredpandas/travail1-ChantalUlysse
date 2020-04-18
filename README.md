@@ -6,3 +6,6 @@
 - Depuis Github : 
   - cliquer sur fork
   - ajouter ce notebook.
+  
+  
+Chère Chantal, tu n'as rien fichu ! je vais appeler tes parents
